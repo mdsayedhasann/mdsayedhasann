@@ -10,3 +10,5 @@
 - ⚡ Fun fact: ...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdsayedhasann&theme=green-nur&border_radius=8&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mdsayedhasann/langs?time_range=one_year&use_percent=True&compact=True&theme=synthwaves)](https://githubtrends.io)
